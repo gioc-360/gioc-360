@@ -8,7 +8,7 @@ I love building software products. I use AI to handle the engineering through an
 
 ## About
 
-I like projects with clear goals but minimal instructions. For my summer internship at Dell, I started with a one-paragraph problem statement, four sources of data owned by different teams, and no spec. Twelve weeks later, after presenting and demoing it to the org's president, it was picked up for production.
+I thrive on projects with clear goals and minimal instructions. For my summer internship at Dell, I started with a problem statement, four categories of data I had to hunt down across teams that each owned their own piece, and no spec. Twelve weeks later, after presenting and demoing it to the org's president, it was picked up for production.
 
 I enjoy the work of product research, building, iteration, and presentation. I also make personal apps.
 
@@ -27,7 +27,7 @@ I built an operations tool that gave leadership one place to see the business ca
 ### Genie — Desktop Music Library, DJ Engine & iPod Manager
 *Personal App · Rust, Tauri, SQLite*
 
-Genie is a Mac app I built because I wanted a music player that can connect to analog devices and has AI-native features to help me discover music I haven't heard before, old and new. The app scans your library, repairs metadata against AcoustID and MusicBrainz, and persists everything via SQLite. It has a DJ engine with beat and key detection, harmonic compatibility on the Camelot wheel, energy-arc sequencing, and stem separation so a transition can lay vocals over the next track's instrumental, mimicking how a DJ auto-mixes a set. Genie helps organize your iPod so it's clean, has complete cover art, and syncs zero-bloat playlists ready for offline listening.
+Genie is a Mac app I built because I wanted a music player that can connect to my iPod and has AI-native features to help me discover music I haven't heard before, old and new. The app scans your library, repairs metadata against AcoustID and MusicBrainz, and persists everything via SQLite. It has a DJ engine with beat and key detection, harmonic compatibility on the Camelot wheel, energy-arc sequencing, and stem separation so a transition can lay vocals over the next track's instrumental, mimicking how a DJ auto-mixes a set. Genie helps organize your iPod so it's clean, has complete cover art, and syncs zero-bloat playlists ready for offline listening.
 
 ### Kokosuki — Japanese trainer
 *Personal App · JavaScript, PWA · [live](https://renshu-iota.vercel.app)*
