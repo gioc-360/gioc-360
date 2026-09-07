@@ -22,7 +22,7 @@ I'm working with Professor Emaad Manzoor on a framework for how companies should
 ### Dell CSG Software — Business Operations Modernization
 *Summer 2026 (completed) · internal, no public repo*
 
-I built an operations tool that gave leadership one place to see the business case for every software program, instead of piecing it together across multiple data sources owned by different teams. Working with the Biz Ops leader, we calculated it would save several hundred hours a quarter once deployed, across a roughly 500-person, $150M+ organization. I laid out a reusable methodology, built the product roadmap, and shipped a working version on my own laptop rather than waiting on infrastructure. Because it touches sensitive compensation data, it's since been handed off to a data engineer to make it production-grade before wider rollout.
+I built an operations tool that gave leadership one place to see the business case for every software program, instead of piecing it together across multiple data sources owned by different teams. Working with the Biz Ops leader, we calculated it would save several hundred hours a quarter once deployed, across a roughly 500-person, $1B in revenue organization. I laid out a reusable methodology, built the product roadmap, and shipped a working version on my own laptop rather than waiting on infrastructure. Because it touches sensitive compensation data, it's since been handed off to a data engineer to make it production-grade before wider rollout.
 
 ### Genie — Desktop Music Library, DJ Engine & iPod Manager
 *Personal App · Rust, Tauri, SQLite*
