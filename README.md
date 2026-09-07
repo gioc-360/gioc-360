@@ -6,7 +6,7 @@ I love building software products. I use AI to handle the engineering through an
 
 **Last Position:** &nbsp;Software PM intern, Dell CSG Software
 
-**Location** &nbsp;&nbsp;&nbsp;Ithaca, NY
+**Location:** &nbsp;&nbsp;&nbsp;Ithaca, NY
 
 ## About
 
