@@ -3,7 +3,9 @@
 I love building software products. I use AI to handle the engineering through an agent system I built that turns raw ideas into scoped plans and production code. That leaves me free to focus on the hard product calls: what to build, what to cut, and why.
 
 **Current:** &nbsp;&nbsp;MBA candidate, Cornell Johnson '27
+
 **Last Position:** &nbsp;Software PM intern, Dell CSG Software
+
 **Location** &nbsp;&nbsp;&nbsp;Ithaca, NY
 
 ## About
