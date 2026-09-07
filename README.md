@@ -8,7 +8,7 @@ I love building software products. I use AI to handle the engineering through an
 
 ## About
 
-I like projects with clear goals but minimal instructions. For my summer internship at Dell, I started with a one-paragraph problem statement, four sources of data owned by different teams, and no spec. Twelve weeks later, after presenting and demoing it to the org's president, it was picked up for production.
+I thrive on projects with clear goals and minimal instructions. For my summer internship at Dell, I started with a one-paragraph problem statement, four sources of data owned by different teams, and no spec. Twelve weeks later, after presenting and demoing it to the org's president, it was picked up for production.
 
 I enjoy the work of product research, building, iteration, and presentation. I also make personal apps.
 
