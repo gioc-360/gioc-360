@@ -29,7 +29,7 @@ I built an operations tool that gave leadership one place to see the business ca
 ### Yomiage 読み上げ 🗣️ — Voice for Claude Code
 *Personal App · Python · macOS*
 
-Yomiage reads Claude Code's answers out loud, in a voice that runs on your own machine. Claude Code has one output channel, text in a terminal, and when reading is expensive that costs more than it should. Instead of shortening the text, Yomiage changes the channel: it hooks into Claude Code's Stop event and speaks just the opening, what happened, why, and what's next, in about fifteen seconds, using a local neural voice or the macOS built-in, while the full detail stays on screen.
+Yomiage is a voice I built for Claude Code because reading every response costs me more than it should. Claude Code has one output channel, text in a terminal, so instead of shortening the text I changed the channel: it hooks into Claude Code's Stop event and speaks just the opening, what happened, why, and what's next, in about fifteen seconds, while the full detail stays on screen. It runs on a local neural voice or the macOS built-in, so nothing leaves my machine.
 
 ### Genie 🎧 — Desktop Music Library, DJ Engine & iPod Manager
 *Personal App · Rust, Tauri, SQLite*
