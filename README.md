@@ -26,7 +26,7 @@ I'm working with Professor Emaad Manzoor on a framework for how companies should
 
 I built an operations tool that gave leadership one place to see the business case for every software program, instead of piecing it together across multiple data sources owned by different teams. Working with the Biz Ops leader, we calculated it would save several hundred hours a quarter once deployed, across a roughly 500-person with $1B in revenue org. I laid out a reusable methodology, built the product roadmap, and shipped a working version on my local device rather than waiting on enterprise cloud infrastructure. Because it touches sensitive compensation data, it's since been handed off to a data engineer to make it production-grade before wider rollout.
 
-### Yomiage 読み上げ 🗣️ — Voice for Claude Code
+### Yomiage よみあげ 🗣️ — Voice for Claude Code
 *Personal App · Python · macOS*
 
 Yomiage is a voice I built for Claude Code because I'm dyslexic and reading terminal output is challenging and frustrating, often I don't understand any of it. Claude Code has one output channel, text in a terminal, so instead of shortening the text I changed the channel: it hooks the Stop event and speaks every answer as four beats, what happened, why, how, and what's now on me, in about fifteen seconds while the detail stays on screen. A small model on my laptop writes it and code checks every beat is there, so nothing leaves my machine and nothing gets invented.
