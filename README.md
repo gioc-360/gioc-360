@@ -36,6 +36,11 @@ Genie is a Mac app I built because I wanted a music player that can connect to m
 
 Kokosuki is a practice app for hiragana, katakana, and N5 vocabulary, and I use it to practice my Japanese. Every Japanese app I tried was built around some gimmick, like streak counters or mascot characters you level up. I just wanted to learn enough words to understand Japanese song lyrics and poetry. The app runs on FSRS, a memory-modeling algorithm that predicts when you're about to forget a specific card, instead of the older SM-2, the fixed-interval algorithm most flashcard apps, including Anki, still default to. It's offline-first and built as a PWA, a progressive web app that installs like a native app straight from the browser, so it still works even when I'm on a flight.
 
+### Yomiage 読み上げ 🔊 — Voice for Claude Code
+*Personal App · Python · macOS*
+
+Yomiage reads Claude Code's answers out loud, in a voice that runs on your own machine. Claude Code has one output channel, text in a terminal, and when reading is expensive that costs more than it should. Instead of shortening the text, Yomiage changes the channel: it hooks into Claude Code's Stop event and speaks just the opening, what happened, why, and what's next, in about fifteen seconds, using a local neural voice or the macOS built-in, while the full detail stays on screen.
+
 ## Tools
 
 TypeScript · Rust · React · Tauri · Vite · SQLite · Python · SQL · Tableau · REST APIs · Vercel
