@@ -21,15 +21,15 @@ I enjoy the work of product research, building, iteration, and presentation. I a
 
 I'm working with Professor Emaad Manzoor on a framework for how companies should allocate a fixed AI budget so that every dollar buys actual, useful work: which systems to adopt, whether to buy dedicated hardware or rent cloud capacity, and what that looks like operationally. It takes a classic operations management question traditionally asked about factories, how much useful output a unit of capacity generates and what each unit costs, and applies it to modern AI infrastructure. Because demand for AI spikes unpredictably, expensive compute sits idle outside peak windows, and leading firms are quickly hitting electricity and power walls rather than pure hardware limits. This project builds on the cost-visibility and resource-allocation problems I tackled at Dell. Still in progress; chapters not yet public.
 
-### Dell CSG Software — Business Operations Modernization
-*Summer 2026 (completed) · internal, no public repo*
-
-I built an operations tool that gave leadership one place to see the business case for every software program, instead of piecing it together across multiple data sources owned by different teams. Working with the Biz Ops leader, we calculated it would save several hundred hours a quarter once deployed, across a roughly 500-person with $1B in revenue org. I laid out a reusable methodology, built the product roadmap, and shipped a working version on my local device rather than waiting on enterprise cloud infrastructure. Because it touches sensitive compensation data, it's since been handed off to a data engineer to make it production-grade before wider rollout.
-
 ### Cornell Network Brain 🗺️ — Internal networking platform for a Cornell program
 *Fall 2026 · In progress · Multi-user and admin-gated, on the program's existing Microsoft 365*
 
 In real estate the network is the product, so a cohort's collective relationships are the asset, and when 85% of a class lands in one concentration out of five that asset is narrower than its headcount suggests. Cornell Network Brain maps who the cohort already reaches and scores gaps instead of coverage, ranking the firms nobody has touched and naming the person who could introduce you.
+
+### Dell CSG Software — Business Operations Modernization
+*Summer 2026 (completed) · internal, no public repo*
+
+I built an operations tool that gave leadership one place to see the business case for every software program, instead of piecing it together across multiple data sources owned by different teams. Working with the Biz Ops leader, we calculated it would save several hundred hours a quarter once deployed, across a roughly 500-person with $1B in revenue org. I laid out a reusable methodology, built the product roadmap, and shipped a working version on my local device rather than waiting on enterprise cloud infrastructure. Because it touches sensitive compensation data, it's since been handed off to a data engineer to make it production-grade before wider rollout.
 
 ### Yomiage よみあげ 🗣️ — Voice for Claude Code
 *Personal App · Python · macOS*
