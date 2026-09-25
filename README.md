@@ -31,17 +31,17 @@ In real estate the network is the product, so a cohort's collective relationship
 
 I built an operations tool that gave leadership one place to see the business case for every software program, instead of piecing it together across multiple data sources owned by different teams. Working with the Biz Ops leader, we calculated it would save several hundred hours a quarter once deployed, across a roughly 500-person with $1B in revenue org. I laid out a reusable methodology, built the product roadmap, and shipped a working version on my local device rather than waiting on enterprise cloud infrastructure. Because it touches sensitive compensation data, it's since been handed off to a data engineer to make it production-grade before wider rollout.
 
-### Yomiage よみあげ 🗣️ — Voice for Claude Code
-*Personal App · Python · macOS*
-
-Yomiage is a voice I built for Claude Code because I'm dyslexic and reading terminal output is challenging and frustrating, often I don't understand any of it. Claude Code has one output channel, text in a terminal, so instead of shortening the text I changed the channel: it hooks the Stop event and speaks every answer as four beats, what happened, why, how, and what's now on me, in about fifteen seconds while the detail stays on screen. A small model on my laptop writes it and code checks every beat is there, so nothing leaves my machine and nothing gets invented.
-
 ### Genie 🎧 — Desktop Music Library, DJ Engine & iPod Manager
 *Personal App · Rust, Tauri, SQLite*
 
 Genie is a Mac app I built because I wanted a music player that can connect to my iPod and has AI-native features to help me discover music I haven't heard before, old and new. The app scans your library, repairs metadata against AcoustID and MusicBrainz, and persists everything via SQLite. It has a DJ engine with beat and key detection, harmonic compatibility on the Camelot wheel, energy-arc sequencing, and stem separation so a transition can lay vocals over the next track's instrumental, mimicking how a DJ auto-mixes a set. Genie helps organize your iPod so it's clean, has complete cover art, and syncs zero-bloat playlists ready for offline listening.
 
 https://github.com/user-attachments/assets/060578e3-aedb-47ef-81a0-5054320613b5
+
+### Yomiage よみあげ 🗣️ — Voice for Claude Code
+*Personal App · Python · macOS*
+
+Yomiage is a voice I built for Claude Code because I'm dyslexic and reading terminal output is challenging and frustrating, often I don't understand any of it. Claude Code has one output channel, text in a terminal, so instead of shortening the text I changed the channel: it hooks the Stop event and speaks every answer as four beats, what happened, why, how, and what's now on me, in about fifteen seconds while the detail stays on screen. A small model on my laptop writes it and code checks every beat is there, so nothing leaves my machine and nothing gets invented.
 
 ### Kokosuki ここすき 🇯🇵 — Japanese trainer
 *Personal App · JavaScript, PWA · [live](https://renshu-iota.vercel.app)*
