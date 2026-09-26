@@ -16,12 +16,12 @@ I enjoy the work of product research, building, iteration, and presentation. I a
 
 ## Projects
 
-### Genie 🎧 — Desktop Music Library, DJ Engine & iPod Manager
+### Genii 🎧 — Desktop Music Library, DJ Engine & iPod Manager
 *Personal App · Rust, Tauri, SQLite*
 
 https://github.com/user-attachments/assets/060578e3-aedb-47ef-81a0-5054320613b5
 
-Genie is a Mac app I built because I wanted a music player that can connect to my iPod and has AI-native features to help me discover music I haven't heard before, old and new. The app scans your library, repairs metadata against AcoustID and MusicBrainz, and persists everything via SQLite. It has a DJ engine with beat and key detection, harmonic compatibility on the Camelot wheel, energy-arc sequencing, and stem separation so a transition can lay vocals over the next track's instrumental, mimicking how a DJ auto-mixes a set. Genie helps organize your iPod so it's clean, has complete cover art, and syncs zero-bloat playlists ready for offline listening.
+Genii is a Mac app I built because I wanted a music player that can connect to my iPod and has AI-native features to help me discover music I haven't heard before, old and new. The app scans your library, repairs metadata against AcoustID and MusicBrainz, and persists everything via SQLite. It has a DJ engine with beat and key detection, harmonic compatibility on the Camelot wheel, energy-arc sequencing, and stem separation so a transition can lay vocals over the next track's instrumental, mimicking how a DJ auto-mixes a set. Genii helps organize your iPod so it's clean, has complete cover art, and syncs zero-bloat playlists ready for offline listening.
 
 ### AI Operations Capacity Framework — Independent Study with Prof. Manzoor
 *Fall 2026 · In progress*
