@@ -33,6 +33,13 @@ I'm working with Professor Emaad Manzoor on a framework for how companies should
 
 Kokosuki is a practice app for hiragana, katakana, and N5 vocabulary, and I use it to practice my Japanese. Every Japanese app I tried was built around some gimmick, like streak counters or mascot characters you level up. I just wanted to learn enough words to understand Japanese song lyrics and poetry. The app runs on FSRS, a memory-modeling algorithm that predicts when you're about to forget a specific card, instead of the older SM-2, the fixed-interval algorithm most flashcard apps, including Anki, still default to. It's offline-first and built as a PWA, a progressive web app that installs like a native app straight from the browser, so it still works even when I'm on a flight.
 
+### Kiru 斬 — Booth game for the Johnson Japan Club
+*Johnson Japan Club · Node.js, WebSockets, Canvas*
+
+[▶ Watch the 30-second demo](media/kiru-demo.mp4)
+
+A club booth lives or dies on whether people walking past stop, so I built Kiru to make stopping the fun part. A visitor scans a QR code on the laptop and their own phone becomes the blade for a 21-second round of slicing Japanese food, dodging bombs and hacking at a bento boss, while the big screen replays every slash for the line waiting behind them. I left out accounts, sign-ups and app installs, because every step between a passerby and their first slash is a step where they walk away. I used it to market the club's events: core events sold out, including two karaoke nights, the ohanami picnic and video game night, allotted funding grew from $750 to $3,500 a year, and operating funds from $400 to $700.
+
 ## Tools
 
 TypeScript · Rust · React · Tauri · Vite · SQLite · Python · SQL · Tableau · REST APIs · Vercel
