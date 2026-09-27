@@ -38,7 +38,7 @@ Kokosuki is a practice app for hiragana, katakana, and N5 vocabulary, and I use 
 
 https://github.com/user-attachments/assets/7cdbe041-5a0c-4449-841f-16f9d1453ce4
 
-A club booth lives or dies on whether people walking past stop, so I built Kiru to make stopping the fun part. A visitor scans a QR code on the laptop and their own phone becomes the blade for a 21-second round of slicing Japanese food, dodging bombs and hacking at a bento boss, while the big screen replays every slash for the line waiting behind them. I left out accounts, sign-ups and app installs, because every step between a passerby and their first slash is a step where they walk away. I used it to market the club's events: core events sold out, including two karaoke nights, the ohanami picnic and video game night, allotted funding grew from $750 to $3,500 a year, and operating funds from $400 to $700.
+JJC was one of the smaller clubs at Johnson, and a small budget made it hard to run events people would pick over the ones clubs with much larger budgets were putting on the same weeks. The way out was selling higher-priced events, since every ticket grew both the budget and the membership, so the whole problem came down to getting people to stop at our booth during club fairs long enough to buy. I built Kiru to make stopping the fun part. A visitor scans a QR code on the laptop and their own phone becomes the blade for a 21-second round of slicing Japanese food, dodging bombs and hacking at a bento boss, while the big screen replays every slash for the line waiting behind them.
 
 ## Tools
 
