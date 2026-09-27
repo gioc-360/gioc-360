@@ -36,7 +36,7 @@ Kokosuki is a practice app for hiragana, katakana, and N5 vocabulary, and I use 
 ### Kiru 斬 — Booth game for the Johnson Japan Club
 *Johnson Japan Club · Node.js, WebSockets, Canvas*
 
-[▶ Watch the 30-second demo](media/kiru-demo.mp4)
+https://github.com/user-attachments/assets/7cdbe041-5a0c-4449-841f-16f9d1453ce4
 
 A club booth lives or dies on whether people walking past stop, so I built Kiru to make stopping the fun part. A visitor scans a QR code on the laptop and their own phone becomes the blade for a 21-second round of slicing Japanese food, dodging bombs and hacking at a bento boss, while the big screen replays every slash for the line waiting behind them. I left out accounts, sign-ups and app installs, because every step between a passerby and their first slash is a step where they walk away. I used it to market the club's events: core events sold out, including two karaoke nights, the ohanami picnic and video game night, allotted funding grew from $750 to $3,500 a year, and operating funds from $400 to $700.
 
